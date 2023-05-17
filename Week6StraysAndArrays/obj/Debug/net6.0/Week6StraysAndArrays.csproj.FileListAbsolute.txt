@@ -1,0 +1,15 @@
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\bin\Debug\net6.0\Week6StraysAndArrays.exe
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\bin\Debug\net6.0\Week6StraysAndArrays.deps.json
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\bin\Debug\net6.0\Week6StraysAndArrays.runtimeconfig.json
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\bin\Debug\net6.0\Week6StraysAndArrays.dll
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\bin\Debug\net6.0\Week6StraysAndArrays.pdb
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\Week6StraysAndArrays.csproj.AssemblyReference.cache
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\Week6StraysAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\Week6StraysAndArrays.AssemblyInfoInputs.cache
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\Week6StraysAndArrays.AssemblyInfo.cs
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\Week6StraysAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\Week6StraysAndArrays.dll
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\refint\Week6StraysAndArrays.dll
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\Week6StraysAndArrays.pdb
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\Week6StraysAndArrays.genruntimeconfig.cache
+C:\Users\YavuzSelim\source\repos\Week6StraysAndArrays\Week6StraysAndArrays\obj\Debug\net6.0\ref\Week6StraysAndArrays.dll
